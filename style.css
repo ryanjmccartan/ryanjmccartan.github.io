@@ -9,6 +9,9 @@
 }
 
 #photo {
-  height: 12px;
-  width: 12px;
+  height: 15px;
+  width: 15px;
+  position: absolute;
+  top: 12px;
+  left: 12px;
 }
