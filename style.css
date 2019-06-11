@@ -23,11 +23,11 @@
   height: 1px;
   width: 150mm;
   left: 20mm;
-  background-color: black;
+  background-color: (0,0,0);
 }
 
 #line1 {
-  top: 10mm
+  top: 10mm;
 }
 
 #line2 {
