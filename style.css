@@ -23,7 +23,7 @@
   height: 1px;
   width: 202mm;
   left: 85mm;
-  background-color: (0,0,0);
+  background-color: black;
 }
 
 #line1 {
@@ -31,6 +31,6 @@
 }
 
 #line2 {
-  top: 80mm;
+  top: 85mm;
 }
 
