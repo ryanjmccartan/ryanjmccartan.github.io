@@ -2,6 +2,10 @@ body {
   background-color: black;
 }
 
+#name {
+  font-size: 50px;
+}
+
 .container {
   margin-top: 20px;
   margin-left: 200px;
@@ -10,12 +14,16 @@ body {
   border-radius: 15px;
   background-color: whitesmoke;
   text-align: left;
+  font-family: helvetica, sans-serif;
 }
 
 .photo {
   height: 200px;
   width: 200px;
   float: right;
+  
+h3 {
+  font-weight: 400;
 }
 
 #title-date {
@@ -31,7 +39,8 @@ body {
 }
 
 #line1 {
-  top: 26mm;
+  top: 34mm;
+  width: 150mm;
 }
 
 #line2 {
