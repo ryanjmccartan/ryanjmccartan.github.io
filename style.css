@@ -21,16 +21,16 @@
 .line {
   position: absolute;
   height: 1px;
-  width: 150mm;
-  left: 20mm;
+  width: 202mm;
+  left: 85mm;
   background-color: (0,0,0);
 }
 
 #line1 {
-  top: 10mm;
+  top: 26mm;
 }
 
 #line2 {
-  top: 20mm;
+  top: 80mm;
 }
 
