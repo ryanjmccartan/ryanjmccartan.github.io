@@ -18,3 +18,19 @@
   font-style: italic;
 }
 
+.line {
+  position: absolute;
+  height: 1px;
+  width: 150mm;
+  left: 20mm;
+  background-color: black;
+}
+
+#line1 {
+  top: 10mm
+}
+
+#line2 {
+  top: 20mm;
+}
+
