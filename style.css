@@ -3,7 +3,7 @@ body {
 }
 
 #name {
-  font-size: 50pt;
+  font-size: 50pt ! important;
   margin-bottom: 0;
 }
 
