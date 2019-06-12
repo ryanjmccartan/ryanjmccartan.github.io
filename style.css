@@ -3,7 +3,12 @@ body {
 }
 
 #name {
-  font-size: 50px;
+  font-size: 50pt;
+  margin-bottom: 0;
+}
+
+p {
+  width: 155mm;
 }
 
 .container {
@@ -20,7 +25,15 @@ body {
 .photo {
   height: 200px;
   width: 200px;
-  float: right;
+  position: absolute;
+  top: 15mm;
+  right: 80mm;
+}
+
+#degree {
+  margin: 0;
+  font-weight: 400;
+  font-style: italic;
 }
 
 #title-date {
@@ -41,6 +54,9 @@ body {
 }
 
 #line2 {
-  top: 85mm;
+  top: 81mm;
 }
 
+h1 {
+  font-weight: 400;
+}
