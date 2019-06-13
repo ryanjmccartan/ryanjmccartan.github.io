@@ -46,11 +46,11 @@ p {
 }
 
 .text {
-  color: white;
+  color: black;
   font-size: 20px;
   position: absolute;
-  top: 15mm;
-  right: 80mm;
+  top: 100px;
+  left: 60px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
