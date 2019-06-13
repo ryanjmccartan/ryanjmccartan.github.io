@@ -41,7 +41,7 @@ p {
   background-color: white;
 }
   
-hover .overlay {
+:hover .overlay {
   opacity: 1;
 }
 
