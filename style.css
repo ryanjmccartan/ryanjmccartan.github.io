@@ -20,6 +20,7 @@ p {
   background-color: whitesmoke;
   text-align: left;
   font-family: helvetica, sans-serif;
+  position: relative;
 }
 
 .photo {
