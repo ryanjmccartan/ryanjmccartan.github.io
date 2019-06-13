@@ -56,6 +56,10 @@ p {
   -ms-transform: translate(-50%, -50%);
 }
 
+.content-education {
+  margin-bottom: 0;
+}
+
 #degree {
   margin-block-start: 0;
   margin-block-end: 0;
