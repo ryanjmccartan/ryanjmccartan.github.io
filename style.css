@@ -46,6 +46,7 @@ p {
   position: absolute;
   height: 1px;
   left: 85mm;
+  width: 218.5mm;
   background-color: black;
 }
 
@@ -56,7 +57,18 @@ p {
 
 #line2 {
   top: 81mm;
-  width: 218.5mm;
+}
+
+#line3 {
+  top: 90mm;
+}
+
+#line4 {
+  top: 115mm;
+}
+
+#line5 {
+  top: 130mm;
 }
 
 h1 {
