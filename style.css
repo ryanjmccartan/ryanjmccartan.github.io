@@ -43,11 +43,6 @@ p {
   
 .photo:hover .overlay {
   opacity: 1;
-  position: absolute;
-  top: 15mm;
-  right: 80mm;
-  height: 200px;
-  width: 200px;
 }
 
 .text {
