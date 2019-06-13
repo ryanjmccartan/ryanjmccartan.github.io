@@ -49,10 +49,11 @@ p {
   opacity: 0;
   transition: .5s ease;
   background-color: white;
+}
   
-  .container:hover .overlay {
-    opacity: 1;
-  }
+.container:hover .overlay {
+  opacity: 1;
+}
 
 #degree {
   margin-block-start: 0;
