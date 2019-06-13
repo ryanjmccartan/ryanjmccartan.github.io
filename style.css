@@ -38,7 +38,7 @@ p {
   width: 200px;
   opacity: 0;
   transition: .5s ease;
-  background-color: white;
+  background-color: whitesmoke;
 }
   
 .overlay:hover {
